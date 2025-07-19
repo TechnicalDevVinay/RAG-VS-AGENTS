@@ -1,0 +1,13 @@
+!pip install chromadb langchain pypdf pymupdf  -qU langchain-community groq langchain_groq -qU pdfplumber
+
+!pip install langchain_community -qU
+!pip install bert-score transformers
+!pip install sentence-transformers
+
+
+
+
+
+pip install chromadb langchain pypdf pymupdf -qU langchain-community groq langchain-groq -qU pdfplumber
+pip install langchain_community -qU
+pip install bert-score transformers
